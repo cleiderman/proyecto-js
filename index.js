@@ -1,13 +1,14 @@
 const fn = () => {
-    const miString = "soy un string!"
-    let b = miString + " muy feliz"
-    console.log(b)
-}
+  let b = miString + " muy feliz";
+  const miString = "soy un string!";
+  // console.log(b)
+  // console.log('hola mundo');
+};
 
-fn()
+fn();
 
 const clickeado = () => {
-    let a = "chanchito feliz"
+  let a = "chanchito feliz";
 
-    console.log(a)
-}
+  console.log(a);
+};
