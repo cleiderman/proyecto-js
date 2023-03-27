@@ -10,5 +10,7 @@ fn();
 const clickeado = () => {
   let a = "chanchito feliz";
   console.log("Hola mundo");
+  console.log("");
+
   console.log(a);
 };
